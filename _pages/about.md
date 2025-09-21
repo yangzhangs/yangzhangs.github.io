@@ -17,9 +17,13 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 2025-09：I was awarded the ACM Changsha Rising Star (rank the 1st place)
+
 * 2025-08: Congratulations! Yiwen's doctoral dissertation has been selected for the CCF Technical Committee of System Software's Award for Outstanding Doctoral Dissertation.
 
 * 2025-06: Our work: *Understanding the Faults in Serverless Computing Based Applications: An Empirical Study* accepted by ICSME2025 Technical track.
+
+* 2025-04：I have been elevated to the grade of CFF Senior Member.
 
 * 2025-04：Our work: *What Problems are MLOps Practitioners Talking About? A Study of Discussions in Stack Overflow Forum and GitHub Projects* accepted by IST Journal.
   
