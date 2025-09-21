@@ -3,6 +3,8 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* 2025 ACM Changsha Rising Star (Rank the 1st place) (ACM长沙分会新星奖)
+  
 * 2024 Beijing Science and Technology Award (First Prize) (北京市科学技术奖一等奖) 
 
 * 2024 NUDT Youth Innovation Award (校青年创新奖)
