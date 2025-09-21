@@ -3,7 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
-* 2025 ACM Changsha Rising Star (Rank the 1st place) (ACM长沙分会新星奖,排名第一)
+
   
 * 2024 Beijing Science and Technology Award (First Prize) (北京市科学技术奖一等奖) 
 
@@ -20,6 +20,7 @@ author_profile: true
 * 2021 Hunan Province Excellent Doctoral Thesis Award（湖南省优秀博士论文）
 
 <!--<strong>Before graduation:</strong>
+* 2025 ACM Changsha Rising Star (Rank the 1st place) (ACM长沙分会新星奖,排名第一)
 * Awards
 <p>2016 OW2 International Programming Contest, Third Prize</p>
 <p>2014 National Graduate Students' Mathematical Contest in Modeling, Third Prize</p>
