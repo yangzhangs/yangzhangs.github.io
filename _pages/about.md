@@ -16,6 +16,8 @@ My main research interest is empirical software engineering, spanning from minin
 
 I like movie, music, and photography. 
 
+**Our group are recruiting self-motivated PhD, Master and Undergraduate students. If interested, please feel free to drop me an email (yangzhang15[at]nudt.edu.cn).**
+
 ## News
 * 2025-09: I was awarded the ACM Changsha Rising Star (rank the 1st place).
 
