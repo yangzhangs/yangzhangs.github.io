@@ -17,7 +17,7 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-
+* 2025-09: I was awarded the ACM Changsha Rising Star (rank the 1st place).
 
 * 2025-08: Congratulations! Yiwen's doctoral dissertation has been selected for the CCF Technical Committee of System Software's Award for Outstanding Doctoral Dissertation.
 
