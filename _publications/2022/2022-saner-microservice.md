@@ -7,7 +7,7 @@ type:           publication
 pub:            "The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-success">Conference</span> <span class="text-em"><i class="fas fa-award mr-1"></i>Distinguished Paper Award</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-success">Conference</span> <span class="badge badge-pill badge-publication badge-danger"><i class="fas fa-award mr-1"></i>Distinguished Paper Award</span>'
 pub_date:       "2022"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
