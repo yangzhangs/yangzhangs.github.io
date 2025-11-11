@@ -1,10 +1,10 @@
 ---
-title:          "A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects"
+title:          "iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects"
 date:           2020-01-06
 selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
-pub:            "SCIENCE CHINA Information Sciences (SCIS), "
+pub:            "World Wide Web Journal (WWWJ), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'
