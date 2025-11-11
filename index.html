@@ -16,9 +16,6 @@ navbar_title: Home
       {% include widgets/experience_card.html %}
     {% endif %}
 
-    {% if site.data.display.homepage.show_awards %}
-      {% include widgets/awards_card.html %}
-    {% endif %}
   </div>
 
   <div class="col-12 col-lg-7">
@@ -40,6 +37,10 @@ navbar_title: Home
       {% include widgets/publication_card.html 
          publications=pubs 
          title='<i class="fas fa-search"></i><span style="margin-left: 0.3em;">Research Highlights</span>' %}
+    {% endif %}
+
+    {% if site.data.display.homepage.show_awards %}
+      {% include widgets/awards_card.html %}
     {% endif %}
 
   </div>
