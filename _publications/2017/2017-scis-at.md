@@ -1,7 +1,7 @@
 ---
 title:          "Social media in GitHub: the role of @-mention in assisting software development"
 date:           2017-03-06
-selected:       true
+selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "SCIENCE CHINA Information Sciences (SCIS), "
