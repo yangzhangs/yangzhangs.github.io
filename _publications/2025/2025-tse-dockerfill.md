@@ -4,7 +4,7 @@ date:           2025-11-06
 selected:       true
 type:           publication
 #tags:           ["# robotics", "# object detection"]
-pub:            "IEEE Transactions on Software Engineering (TSE)"
+pub:            "IEEE Transactions on Software Engineering (TSE), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span>'
