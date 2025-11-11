@@ -5,7 +5,7 @@ navbar_name: "Yang Zhang"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: Assistant Professor in SE
+- name: Assistant Professor
 - name: <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology (NUDT)</a>
 - name: Ph.D. in Software Engineering
 
@@ -59,7 +59,7 @@ education:
    position: >- 
      Visiting student, Software Engineering </br>
    description:
-     Advised by Prof. Vladimir Vilkov
+     Advised by Prof. Vladimir Filkov
    date: Oct. 2016 - Oct. 2017
    place: Davis, CA, USA
  - name: National University of Defense Technology
