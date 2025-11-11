@@ -59,9 +59,9 @@
             <!-- <p class="mt-0 mb-1 small text-muted">{{ item.abstract }}</p> -->
 
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
-                <a data-toggle="collapse" href="#abstract-{{ item.title | slugify }}" role="button" aria-expanded="false" aria-controls="abstract-{{ item.title | slugify }}">
+                <!-- <a data-toggle="collapse" href="#abstract-{{ item.title | slugify }}" role="button" aria-expanded="false" aria-controls="abstract-{{ item.title | slugify }}">
                     [TL;DR]
-                </a>
+                </a> -->
 
                 {% for link in item.links %}
                 {% if link[1].url %}
@@ -79,10 +79,10 @@
                 </a>
             </p> -->
 
-            <!-- Collapsible Abstract -->
+            <!-- Collapsible Abstract 
             <div class="collapse" id="abstract-{{ item.title | slugify }}">
                 <p class="small text-muted mb-0">{{ item.abstract }}</p>
-            </div>
+            </div>-->
 
             <!-- TAG BADGES -->
             <!-- {% if item.tags %}
