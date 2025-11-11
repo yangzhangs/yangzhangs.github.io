@@ -1,7 +1,7 @@
 ---
 title:          "Understanding the Faults in Serverless Computing Based Applications: An Empirical Study"
 date:           2025-10-15
-selected:       true
+selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 41st IEEE International Conference on Software Maintenance and Evolution (ICSME), "
@@ -15,7 +15,7 @@ pub_date:       "2025"
 cover:          /assets/images/covers/icsme-serverless.png
 authors:
   - Changrong Xie
-  - Yang Zhang*
+  - Yang Zhang#
   - Xinjun Mao
   - Kang Yang
   - Tanghaoran Zhang
