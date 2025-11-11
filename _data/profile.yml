@@ -47,35 +47,35 @@ portrait_url: /assets/images/photos/profile.png
 
 education:
  - name: National University of Defense Technology
-  logo: /assets/images/badges/NUDT.png
-  position: >- 
+   logo: /assets/images/badges/NUDT.png
+   position: >- 
      Ph.D., Software Engineering </br>
-  description: >- 
-    Advised by Prof. Huaimin Wang
-  date: Mar. 2015 - Jun. 2019
-  place: Changsha, China
+   description: >- 
+     Advised by Prof. Huaimin Wang
+   date: Mar. 2015 - Jun. 2019
+   place: Changsha, China
  - name: University of California, Davis
-  logo: /assets/images/badges/UCDavis.png
-  position: >- 
+   logo: /assets/images/badges/UCDavis.png
+   position: >- 
      Visiting student, Software Engineering </br>
-  description:
-    Advised by Prof. Vladimir Vilkov
-  date: Oct. 2016 - Oct. 2017
-  place: Davis, CA, USA
-- name: National University of Defense Technology
-  logo: /assets/images/badges/NUDT.png
-  position: >- 
-    M.S., Software Engineering <br/>
-  description: >- 
-    Advised by Prof. Huaimin Wang
-  date: Sep. 2013 - Jan. 2015
-  place: Changsha, China
-- name: National University of Defense Technology
-  logo: /assets/images/badges/NUDT.png
-  position: >-  
-    B.E., Computer Science and Technology
-  date: Sep. 2009 - Jun. 2013
-  place: Changsha, China
+   description:
+     Advised by Prof. Vladimir Vilkov
+   date: Oct. 2016 - Oct. 2017
+   place: Davis, CA, USA
+ - name: National University of Defense Technology
+   logo: /assets/images/badges/NUDT.png
+   position: >- 
+     M.S., Software Engineering <br/>
+   description: >- 
+     Advised by Prof. Huaimin Wang
+   date: Sep. 2013 - Jan. 2015
+   place: Changsha, China
+ - name: National University of Defense Technology
+   logo: /assets/images/badges/NUDT.png
+   position: >-  
+     B.E., Computer Science and Technology
+   date: Sep. 2009 - Jun. 2013
+   place: Changsha, China
 
 experience:
 - name: Yonsei University Health System
