@@ -3,13 +3,11 @@
     <div class="px-3 pt-3 pb-2">
         {% if site.data.profile.awards %}
             {% for item in site.data.profile.awards %}
-            <li>
                 <div class="my-1 d-flex">
                     <div>{{ item.name }}</div>
                     <div>{{ item.description }}</div>
                     <div class="ml-auto mt-auto text-muted no-break"><em>{{ item.date }}</em></div>
                 </div>
-            </li>
             {% endfor %}
         {% endif %}
     </div>
