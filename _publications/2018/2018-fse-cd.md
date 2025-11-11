@@ -1,0 +1,24 @@
+---
+title:          "One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows"
+date:           2018-01-15
+selected:       true
+type:           publication
+#tags:           ["# robotics", "# object detection"]
+pub:            "The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE), "
+# pub_pre:        "Submitted to "
+# pub_post:       'Under review.'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span>'
+pub_date:       "2018"
+# semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
+#abstract: >-
+#  Implemented a real-time nearest-target tracking algorithm and a shoot (and don't shoot) logic based on fine-tuned YOLOv11s. Deployed the system on Jetson Orin Nano and demonstrated engagement of both stationary and moving targets.
+cover:          /assets/images/covers/fse-cd.png
+authors:
+  - Yang Zhang
+  - Bogdan Vasilescu
+  - Huaimin Wang
+  - Vladimir Filkov
+#links:
+#  Slides: yangzhangs.github.io
+#  Video: yangzhangs.github.io
+---
