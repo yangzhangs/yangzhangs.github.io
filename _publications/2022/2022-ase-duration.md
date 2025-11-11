@@ -7,7 +7,7 @@ type:           publication
 pub:            "The 37th IEEE/ACM International Conference on Automated Software Engineering (ASE), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'
 pub_date:       "2022"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-

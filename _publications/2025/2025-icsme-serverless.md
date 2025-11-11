@@ -7,7 +7,7 @@ type:           publication
 pub:            "The 41st IEEE International Conference on Software Maintenance and Evolution (ICSME), "
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'
 pub_date:       "2025"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
