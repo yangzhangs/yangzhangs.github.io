@@ -1,7 +1,7 @@
 ---
 layout: default
-title : Research
-navbar_title: Research
+title : Publications
+navbar_title: Publications
 body_attr: >-
   data-spy="scroll" data-target="#navbar-year" data-offset="100"
 ---
@@ -74,52 +74,12 @@ body_attr: >-
 </style>
 
 <div class="row justify-content-center">
-  <div class="col-12 col-lg-3 mt-3">
-    <div style="position: sticky; top: 96px;">
-      <!-- FILTER TABS -->
-      <div class="mb-1 d-flex flex-wrap align-items-center">
-        <div class="filter-type d-flex flex-wrap align-items-center mb-3">
-          <span class="filter-tab active" data-type="all" onclick="selectType(this, 'all')">
-            <i class="fas fa-stream mr-1"></i> All
-          </span>
-          <span class="filter-tab" data-type="publication" onclick="selectType(this, 'publication')">
-            <i class="fas fa-book-open mr-1"></i> Publications
-          </span>
-          <span class="filter-tab" data-type="project" onclick="selectType(this, 'project')">
-            <i class="fas fa-lightbulb mr-1"></i> Projects
-          </span>
-        </div>
-      </div>
-
-      <!-- TAG MULTI-FILTER -->
-      <div class="mb-3 d-flex flex-wrap align-items-center">
-        <div id="tagContainer" class="d-flex flex-wrap">
-          <div class="tag-filter" onclick="toggleTagFilter('medical-imaging')"># medical imaging</div>
-          <div class="tag-filter" onclick="toggleTagFilter('continual-learning')"># continual learning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('few-shot-learning')"># few-shot learning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('neural-collapse')"># neural collapse</div>
-          <div class="tag-filter" onclick="toggleTagFilter('object-detection')"># object detection</div>
-          <div class="tag-filter" onclick="toggleTagFilter('vision-language')"># vision-language</div>
-          <div class="tag-filter" onclick="toggleTagFilter('image-quality-assessment')"># image quality assessment</div>
-          <div class="tag-filter" onclick="toggleTagFilter('abstract-perception')"># abstract perception</div>
-          <div class="tag-filter" onclick="toggleTagFilter('robotics')"># robotics</div>
-          <div class="tag-filter" onclick="toggleTagFilter('data-poisoning')"># data poisoning</div>
-          <div class="tag-filter" onclick="toggleTagFilter('synthetic-data')"># synthetic data</div>
-          <div class="tag-filter" onclick="toggleTagFilter('machine-learning')"># machine learning</div>
-          <!-- More tags -->
-        </div>
-      </div>
-
-      {% include widgets/research_brief.html %}
-    </div>
-  </div>
 
   <div class="col-12 col-lg-7 mt-3">
     <div class="text-right mt-0" style="margin-bottom: -3rem;">
       <small style="font-size: 0.75em;">
         * Equal contribution, <sup>†</sup> Corresponding author
       </small>
-      <span class="text-muted" style="margin-left: 0.3em; margin-right: 0.75em; font-size: 0.7em;">(for publications)</span>
     </div>
 
     <!-- GROUP PUBLICATIONS BY YEAR -->
@@ -146,56 +106,3 @@ body_attr: >-
     {% endfor %}
   </div>
 </div>
-
-<!-- JAVASCRIPT FOR FILTERING -->
-<script>
-  let currentType = 'all';
-  let activeTags = new Set();
-
-  function selectType(el, type) {
-    // Remove active class from all
-    document.querySelectorAll('.filter-tab').forEach(tab => {
-      tab.classList.remove('active');
-    });
-    // Add active to selected
-    el.classList.add('active');
-    currentType = type;
-    applyFilters();
-  }
-
-  function toggleTagFilter(tag) {
-    const badge = document.querySelector('.tag-filter[onclick*="' + tag + '"]');
-    if (activeTags.has(tag)) {
-      activeTags.delete(tag);
-      badge.classList.remove('active');
-    } else {
-      activeTags.add(tag);
-      badge.classList.add('active');
-    }
-    applyFilters();
-  }
-
-  function applyFilters() {
-    const items = document.getElementsByClassName("filter-item");
-    const yearBlocks = document.getElementsByClassName("year-block");
-
-    for (let i = 0; i < items.length; i++) {
-      const typeMatch = (currentType === "all" || items[i].classList.contains(currentType));
-      const tagMatch = Array.from(activeTags).every(tag => items[i].classList.contains(tag));
-      const tagPass = (activeTags.size === 0 || tagMatch);
-      items[i].style.display = (typeMatch && tagPass) ? "block" : "none";
-    }
-
-    for (let j = 0; j < yearBlocks.length; j++) {
-      const visibleItems = yearBlocks[j].querySelectorAll(".filter-item");
-      let anyVisible = false;
-      for (let k = 0; k < visibleItems.length; k++) {
-        if (visibleItems[k].style.display !== "none") {
-          anyVisible = true;
-          break;
-        }
-      }
-      yearBlocks[j].style.display = anyVisible ? "block" : "none";
-    }
-  }
-</script>
