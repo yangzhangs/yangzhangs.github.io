@@ -29,7 +29,7 @@ short_bio: >-
   </p>
 
   <p>
-    My research interests include <span class="text-hl">empirical software engineering</span>, <span class="text-hl">mining software repositories</span>, <span class="text-hl">DevOps</span>, and <span class="text-hl">Open source</span>.
+    My research interests include <span class="text-hl">empirical software engineering</span>, <span class="text-hl">mining software repositories</span>, <span class="text-hl">DevOps</span>, and <span class="text-hl">open source</span>.
   </p>
 
   <p>
@@ -78,39 +78,21 @@ education:
    place: Changsha, China
 
 experience:
-- name: Yonsei University Health System
-  logo: /assets/images/badges/Yonsei.png
+- name: National University of Defense Technology
+  logo: /assets/images/badges/NUDT.png
   position: >- 
-    Research Assistant in AI
-  date: Jul. 2025 - Present
-  place: Seoul, Korea
-- name: Digital Healthcare Lab
-  logo: /assets/images/badges/Yonsei.png
-  position: >- 
-    Graduate Research Assistant <br/>
-  description:
-    Advised by Prof. Yu Rang Park
-  date: Mar. 2023 - Jun. 2025
-  place: Seoul, Korea
-- name: Carnegie Mellon University
-  logo: /assets/images/badges/CMU.jpg
-  position: >- 
-    Visiting Scholar, Computer Science <br/>
-  description:
-    Korean Government Fellowship
-  date: Aug. 2024 - Feb. 2025
-  place: Pittsburgh, PA
-- name: University of Washington
-  logo: /assets/images/badges/UW_gold.png
-  position: >- 
-    Undergraduate Exchange Student
-  date: Sep. 2018 - Jun. 2019
-  place: Seattle, WA
+    Assistant Professor
+  date: Jun. 2019 - Present
+  place: Changsha, China
 
-# awards:
-# - name: Award Name 2
-#   date: 2024
-# - name: Award Name 1 
-#   date: 2021
-# - name: A quick brown fox jumps over the lazy dog and runs away award
-#   date: 2021
+
+awards:
+ - name: ACM China Rising Star Award Nomination (Nationwide, Top 5)
+   description: ACM中国新星奖提名奖，全国前五名
+   date: 2025
+ - name: ACM Changsha Rising Star (Rank the 1st place)
+   description: ACM长沙分会新星奖, 排名第一
+   date: 2025
+ - name: Beijing Science and Technology Award (First Prize)
+   description: 北京市科学技术奖一等奖)
+   date: 2024
