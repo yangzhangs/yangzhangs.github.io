@@ -1,7 +1,7 @@
 ---
 title:          "A Transformer-based Model for Assisting Dockerfile Revising"
 date:           2024-01-10
-selected:       true
+selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 46th International Conference on Software Engineering (ICSE), "
