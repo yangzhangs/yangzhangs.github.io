@@ -12,7 +12,7 @@ pub:            "IEEE Transactions on Software Engineering (TSE)"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
 #  Implemented a real-time nearest-target tracking algorithm and a shoot (and don't shoot) logic based on fine-tuned YOLOv11s. Deployed the system on Jetson Orin Nano and demonstrated engagement of both stationary and moving targets.
-#cover:          /assets/images/covers/cannon.png
+cover:          /assets/images/covers/tse-dockerfill.png
 authors:
   - Yiwen Wu
   - Yang Zhang#
