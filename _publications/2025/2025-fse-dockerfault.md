@@ -5,6 +5,7 @@ selected:       true
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 33rd ACM International Conference on the Foundations of Software Engineering (FSE), "
+pub_ab:         "FSE"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'
