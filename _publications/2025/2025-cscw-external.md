@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), "
+pub_ab:         "CSCW"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'
