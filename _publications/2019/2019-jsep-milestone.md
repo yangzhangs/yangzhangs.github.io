@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "Journal of Software: Evolution and Process (JSEP), "
+pub_ab:         "JSEP"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'

@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 17th International Conference on Mining Software Repositories (MSR), "
+pub_ab:         "MSR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-info">CCF-C</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'

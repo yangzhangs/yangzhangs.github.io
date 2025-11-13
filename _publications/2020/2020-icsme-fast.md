@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 36th International Conference on Software Maintenance and Evolution (ICSME), "
+pub_ab:         "ICSME"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'

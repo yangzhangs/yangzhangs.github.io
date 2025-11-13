@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "SCIENCE CHINA Information Sciences (SCIS), "
+pub_ab:         "SCIS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span> <span class="badge badge-pill badge-publication badge-danger">JCR Q1</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'

@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "Information and Software Technology (IST), "
+pub_ab:         "IST"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-danger">JCR Q1</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'

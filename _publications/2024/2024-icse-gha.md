@@ -5,6 +5,7 @@ selected:       true
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 46th International Conference on Software Engineering (ICSE), "
+pub_ab:         "ICSE"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A</span> <span class="badge badge-pill badge-publication badge-success">Conference</span>'

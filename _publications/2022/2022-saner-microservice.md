@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), "
+pub_ab:         "SANER"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-B</span> <span class="badge badge-pill badge-publication badge-success">Conference</span> <span class="badge badge-pill badge-publication badge-danger"><i class="fas fa-award mr-1"></i>Distinguished Paper Award</span>'

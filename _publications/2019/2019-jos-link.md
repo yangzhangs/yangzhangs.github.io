@@ -5,6 +5,7 @@ selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
 pub:            "Journal of Software (软件学报), "
+pub_ab:         "JOS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A中文</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'
