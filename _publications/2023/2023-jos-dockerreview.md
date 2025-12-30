@@ -8,7 +8,7 @@ pub:            "Journal of Software (软件学报), "
 pub_ab:         "JOS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A中文</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-A中文</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span><i class="fas fa-award mr-1"></i>High Impact Paper Award</span>'
 pub_date:       "2023"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
