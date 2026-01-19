@@ -18,7 +18,7 @@ authors:
   - Zhe Wang
   - Zhixing Li
   - Tao Wang
-  - Yang Zhang#
+  - Yang Zhang
   - Minghui Zhou
   - Xudong Li
 #links:
