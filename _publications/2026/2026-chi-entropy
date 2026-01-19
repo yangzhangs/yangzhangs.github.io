@@ -13,7 +13,7 @@ pub_date:       "2026"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
 #  Implemented a real-time nearest-target tracking algorithm and a shoot (and don't shoot) logic based on fine-tuned YOLOv11s. Deployed the system on Jetson Orin Nano and demonstrated engagement of both stationary and moving targets.
-cover:          /assets/images/covers/chi-entropy.png
+cover:          /assets/images/covers/2026-entropy.png
 authors:
   - Yang Shen
   - Tao Wang
