@@ -1,5 +1,5 @@
 ---
-title:          "Deprecated but Not Abandoned: A Large-Scale EmpiricalStudy on Growing-user-demand Deprecated NPM Packages"
+title:          "Deprecated but Not Abandoned: A Large-Scale Empirical Study on Growing-user-demand Deprecated NPM Packages"
 date:           2026-04-16
 selected:       true
 type:           publication
