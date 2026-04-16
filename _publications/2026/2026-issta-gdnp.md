@@ -4,7 +4,7 @@ date:           2026-04-16
 selected:       true
 type:           publication
 #tags:           ["# robotics", "# object detection"]
-pub:            "The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026), "
+pub:            "The 35th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), "
 pub_ab:         "ISSTA"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
