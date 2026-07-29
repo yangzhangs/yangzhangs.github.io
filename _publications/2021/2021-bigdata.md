@@ -8,7 +8,7 @@ pub:            "Big Data (大数据), "
 pub_ab:         "BigData"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">CCF-T2中文</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span> <span class="badge badge-pill badge-publication badge-danger">'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">CCF-T2中文</span> <span class="badge badge-pill badge-publication badge-warning">Journal</span> <span class="badge badge-pill badge-publication badge-danger">'
 pub_date:       "2021"
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 #abstract: >-
