@@ -1,6 +1,6 @@
 ---
 title:          "Exploring the Relationship Between Developer Activities and Profile Images on GitHub"
-date:           2018-09-16
+date:           2019-10-28
 selected:       false
 type:           publication
 #tags:           ["# robotics", "# object detection"]
