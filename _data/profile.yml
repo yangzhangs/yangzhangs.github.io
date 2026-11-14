@@ -39,7 +39,7 @@ short_bio: >-
 
   <picture>
     <source media="(max-width: 575px)" srcset="/assets/images/logo-compact.svg">
-    <img src="/assets/images/logo.svg" alt="RESET Logo" width="360" class="img-fluid" style="max-width: 100%; height: auto;">
+    <img src="/assets/images/logo.svg" alt="RESET Logo" width="320" class="img-fluid" style="max-width: 100%; height: auto;">
   </picture> 
   <div class="bd-callout bd-callout-info bg-white shadow-sm"> 
     <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
