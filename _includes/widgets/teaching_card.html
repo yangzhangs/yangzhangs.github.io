@@ -3,10 +3,14 @@
     <div class="px-3 pt-3 pb-2">
         {% if site.data.profile.teaching %}
             {% for item in site.data.profile.teaching %}
-                <div class="my-1 d-flex">
-                    <div>{{ item.name }}</div>
-                    <div>{{ item.description }}</div>
-                    <div class="ml-auto mt-auto text-muted no-break"><em>{{ item.date }}</em></div>
+                <div class="my-1">
+                    <div class="d-flex">
+                        <div>{{ item.name }}</div>
+                        <div class="ml-auto mt-auto text-muted no-break"><em>{{ item.date }}</em></div>
+                    </div>
+                    {% if item.level or item.role %}
+                        <div class="small text-muted">{% if item.level %}{{ item.level }}{% endif %}{% if item.level and item.role %} · {% endif %}{% if item.role %}{{ item.role }}{% endif %}</div>
+                    {% endif %}
                 </div>
             {% endfor %}
         {% endif %}
