@@ -1,0 +1,14 @@
+<div class="mt-3 mb-0 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-chalkboard-teacher"></i><span style="margin-left: 0.3em;">Teaching</span></h6>
+    <div class="px-3 pt-3 pb-2">
+        {% if site.data.profile.teaching %}
+            {% for item in site.data.profile.teaching %}
+                <div class="my-1 d-flex">
+                    <div>{{ item.name }}</div>
+                    <div>{{ item.description }}</div>
+                    <div class="ml-auto mt-auto text-muted no-break"><em>{{ item.date }}</em></div>
+                </div>
+            {% endfor %}
+        {% endif %}
+    </div>
+</div>

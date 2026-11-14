@@ -90,6 +90,10 @@ experience:
   place: Changsha, China
 
 
+teaching:
+ - name: 高级软件工程 (Advanced Software Engineering)
+   date: Fall 2026
+
 awards:
  - name: JOS 2024 High Impact Paper Award/ 《软件学报》2024年高影响力论文
    date: 2025

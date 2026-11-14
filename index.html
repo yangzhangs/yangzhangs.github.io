@@ -44,6 +44,10 @@ navbar_title: Home
          title='<i class="fas fa-star"></i><span style="margin-left: 0.3em;">Selected Publications</span>' %}
     {% endif %}
 
+    {% if site.data.display.homepage.show_teaching %}
+      {% include widgets/teaching_card.html %}
+    {% endif %}
+
     {% if site.data.display.homepage.show_awards %}
       {% include widgets/awards_card.html %}
     {% endif %}
