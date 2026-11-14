@@ -26,6 +26,10 @@ navbar_title: Home
   <div class="col-12 col-lg-7">
     {% include widgets/about_card.html %}
 
+    {% if site.data.display.homepage.show_research %}
+      {% include widgets/research_card.html %}
+    {% endif %}
+
     {% include widgets/debug_repo_name.html %}
     
     {% include widgets/debug_url.html %}

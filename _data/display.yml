@@ -1,6 +1,7 @@
 homepage:
   show_education: true
   show_experience: true
+  show_research: true
   show_teaching: true
   show_awards: true
   show_news: true
