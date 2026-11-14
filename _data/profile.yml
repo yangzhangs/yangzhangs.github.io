@@ -37,7 +37,10 @@ short_bio: >-
     I like movie, music, and photography. My MBTI type is ISFJ.
   </p>
 
-  <img src="/assets/images/logo.png" alt="RESET Logo" width="200"> 
+  <picture>
+    <source media="(max-width: 575px)" srcset="/assets/images/logo-compact.svg">
+    <img src="/assets/images/logo.svg" alt="RESET Logo" width="480" class="img-fluid" style="max-width: 100%; height: auto;">
+  </picture> 
   <div class="bd-callout bd-callout-info bg-white shadow-sm"> 
     <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
     Our group are recruiting self-motivated Postdoc, PhD, Master and Undergraduate students. If interested, please feel free to drop me an email (yangzhang15[at]nudt.edu.cn). </br>
