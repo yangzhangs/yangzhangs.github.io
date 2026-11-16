@@ -59,7 +59,7 @@ education:
      Ph.D., Software Engineering </br>
    description: >- 
      Advised by Prof. Huaimin Wang
-   date: Mar. 2015 - Jun. 2019
+   date: 2015.03 - 2019.06
    place: Changsha, China
  - name: University of California, Davis
    logo: /assets/images/badges/UCDavis.png
@@ -67,7 +67,7 @@ education:
      Visiting student, Software Engineering </br>
    description:
      Advised by Prof. Vladimir Filkov
-   date: Oct. 2016 - Oct. 2017
+   date: 2016.10 - 2017.10
    place: Davis, CA, USA
  - name: National University of Defense Technology
    logo: /assets/images/badges/NUDT.png
@@ -75,28 +75,29 @@ education:
      M.S., Software Engineering <br/>
    description: >- 
      Advised by Prof. Huaimin Wang
-   date: Sep. 2013 - Jan. 2015
+   date: 2013.09 - 2015.01
    place: Changsha, China
  - name: National University of Defense Technology
    logo: /assets/images/badges/NUDT.png
    position: >-  
      B.E., Computer Science and Technology
-   date: Sep. 2009 - Jun. 2013
+   date: 2009.09 - 2013.06
    place: Changsha, China
 
 experience:
 - name: National University of Defense Technology
   logo: /assets/images/badges/NUDT.png
   position: >- 
-    Assistant Professor
-  date: Jun. 2019 - Dec. 2026
+    Associate Professor
+  date: 2026.12 - 
   place: Changsha, China
 - name: National University of Defense Technology
   logo: /assets/images/badges/NUDT.png
   position: >- 
-    Associate Professor
-  date: Dec. 2026 - 
+    Assistant Professor
+  date: 2019.06 - 2026.12
   place: Changsha, China
+
 
 teaching:
  - name: 高级软件工程 (Advanced Software Engineering)
