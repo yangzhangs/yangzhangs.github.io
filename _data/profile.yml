@@ -5,7 +5,7 @@ navbar_name: "Yang Zhang"
 positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
-- name: Assistant Professor
+- name: Associate Professor
 - name: <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology (NUDT)</a>
 - name: Ph.D. in Software Engineering
 
@@ -24,7 +24,7 @@ github: yangzhangs
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am currently an assistant professor in the College of Computer, National University of Defense Technology (NUDT), China.  
+    I am currently an associate professor in the College of Computer, National University of Defense Technology (NUDT), China.  
     I joined the <a href="https://www.trustie.net" target="_blank">Trustie Lab</a> at August 2013, advised by <a href="https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin" target="_blank">Prof. Huaimin Wang</a>. 
     I received my Ph.D. in Software Engineering from NUDT in September 2019. 
     From October 2016 to October 2017, I was a visiting student at the University of California, Davis (UC Davis), USA sponsored by the China Scholarship Council. 
@@ -43,7 +43,7 @@ short_bio: >-
   </picture> 
   <div class="bd-callout bd-callout-info bg-white shadow-sm"> 
     <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
-    Our group are recruiting self-motivated Postdoc, PhD, Master and Undergraduate students. If interested, please feel free to drop me an email (yangzhang15[at]nudt.edu.cn). </br>
+    Our group are recruiting self-motivated Postdoc, PhD, and Master students. If interested, please feel free to drop me an email (yangzhang15[at]nudt.edu.cn或zhangyang09_nudt[at]163.com). </br>
     <strong>目前课题组招收博后、博士生和硕士生，欢迎有自驱力、对软工感兴趣的小伙伴加入我们，感兴趣的同学可以给我发邮件（yangzhang15[at]nudt.edu.cn或zhangyang09_nudt[at]163.com）</strong>
   </div>
 
@@ -89,9 +89,14 @@ experience:
   logo: /assets/images/badges/NUDT.png
   position: >- 
     Assistant Professor
-  date: Jun. 2019 - Present
+  date: Jun. 2019 - Dec. 2026
   place: Changsha, China
-
+- name: National University of Defense Technology
+  logo: /assets/images/badges/NUDT.png
+  position: >- 
+    Associate Professor
+  date: Dec. 2026 - Present
+  place: Changsha, China
 
 teaching:
  - name: 高级软件工程 (Advanced Software Engineering)
