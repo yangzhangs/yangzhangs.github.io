@@ -114,3 +114,13 @@ div.lazy {
     font-family: "Courier Prime", monospace;
 }
 
+.institution-name {
+    font-size: 0.82rem;
+}
+
+@media (min-width: 1200px) {
+    .institution-name {
+        white-space: nowrap;
+    }
+}
+
