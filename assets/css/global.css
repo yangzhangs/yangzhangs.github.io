@@ -115,7 +115,7 @@ div.lazy {
 }
 
 .institution-name {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
 }
 
 .entry-head {
@@ -128,15 +128,15 @@ div.lazy {
 
 @media (min-width: 992px) {
     .home-left {
-        flex: 0 0 33.333333%;
-        max-width: 33.333333%;
+        flex: 0 0 35.5%;
+        max-width: 35.5%;
     }
 }
 
 @media (min-width: 1200px) {
     .home-left {
-        flex: 0 0 28%;
-        max-width: 28%;
+        flex: 0 0 29.5%;
+        max-width: 29.5%;
     }
 
     .institution-name {
