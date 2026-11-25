@@ -128,18 +128,30 @@ div.lazy {
 
 .lab-name {
     display: inline-block;
-    font-size: 0.65rem;
+    font-size: 0.7rem;
 }
 
 .lab-name-cn {
     display: inline-block;
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     color: #6b7280;
+}
+
+.text-profile-position {
+    margin-left: -1.25rem;
+    margin-right: -1.25rem;
 }
 
 @media (min-width: 992px) {
     .lab-name {
         white-space: nowrap;
+    }
+}
+
+@media (min-width: 1400px) {
+    .lab-name,
+    .lab-name-cn {
+        font-size: 0.75rem;
     }
 }
 
