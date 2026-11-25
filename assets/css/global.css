@@ -126,6 +126,23 @@ div.lazy {
     font-size: 0.65rem;
 }
 
+.lab-name {
+    display: inline-block;
+    font-size: 0.65rem;
+}
+
+.lab-name-cn {
+    display: inline-block;
+    font-size: 0.65rem;
+    color: #6b7280;
+}
+
+@media (min-width: 992px) {
+    .lab-name {
+        white-space: nowrap;
+    }
+}
+
 @media (min-width: 992px) {
     .home-left {
         flex: 0 0 37.5%;

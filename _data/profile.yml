@@ -6,7 +6,7 @@ positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 - name: Associate Professor
-- name: State Key Laboratory of Complex & Critical Software Environment</br><a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology (NUDT)</a>
+- name: <span class="lab-name">State Key Laboratory of Complex &amp; Critical Software Environment</span></br><span class="lab-name-cn">复杂关键软件环境全国重点实验室</span></br><a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology (NUDT)</a>
 - name: Ph.D. in Software Engineering
 
 
